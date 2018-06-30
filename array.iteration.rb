@@ -1,4 +1,4 @@
-#build our array 
+#build our array #array iteration 
 
 
 amazon_prices=[42,29,99,1279,1289,196.99]
